@@ -1,0 +1,14 @@
+[
+    {"id":1, "Name":"Човешки папилома вирус /HPV/ (Високорискови типове)"},
+    {"id":2, "Name":"HLA B27(болест на Бехтерев) DNA"},
+    {"id":3, "Name":"Серумен комплемент С3- фракция"},
+    {"id":4, "Name":"cANCA /anti - PR3/"},
+    {"id":5, "Name":"Анти - Кардиолипин IgM"},
+    {"id":6, "Name":"Anti-Parietal Cell"},
+    {"id":7, "Name":"TSH"},
+    {"id":8, "Name":"FT3"},
+    {"id":9, "Name":"Prolactin"},
+    {"id":10, "Name":"SHBG"},
+    {"id":11, "Name":"Cortizol"},
+    {"id":12, "Name":"Gastrin"}
+]

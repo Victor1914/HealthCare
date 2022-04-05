@@ -1,0 +1,14 @@
+[
+    {"id":1, "Name":"Analgin", "CategoryId":"1", "PharmacyCompanyId":"1"},
+    {"id":2, "Name":"Spazmalgon", "CategoryId":"1", "PharmacyCompanyId":"1"},
+    {"id":3, "Name":"Nurofen", "CategoryId":"1", "PharmacyCompanyId":"1"},
+    {"id":4, "Name":"Olint", "CategoryId":"1", "PharmacyCompanyId":"1"},
+    {"id":5, "Name":"Coldrex", "CategoryId":"1", "PharmacyCompanyId":"1"},
+    {"id":6, "Name":"Panadol", "CategoryId":"1", "PharmacyCompanyId":"1"},
+    {"id":7, "Name":"Paracetamol", "CategoryId":"1", "PharmacyCompanyId":"1"},
+    {"id":8, "Name":"Aulin", "CategoryId":"1", "PharmacyCompanyId":"1"},
+    {"id":9, "Name":"Nimesil", "CategoryId":"1", "PharmacyCompanyId":"1"},
+    {"id":10, "Name":"Dexofen", "CategoryId":"1", "PharmacyCompanyId":"1"},
+    {"id":11, "Name":"Fervex", "CategoryId":"1", "PharmacyCompanyId":"1"},
+    {"id":12, "Name":"Mezim Forte", "CategoryId":"1", "PharmacyCompanyId":"1"}
+]

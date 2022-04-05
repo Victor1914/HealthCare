@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HealthCare.Interfaces\HealthCare.Interfaces.csproj" />
+    <ProjectReference Include="..\HealthCare.Utilities\HealthCare.Utilities.csproj" />
+  </ItemGroup>
+
+</Project>

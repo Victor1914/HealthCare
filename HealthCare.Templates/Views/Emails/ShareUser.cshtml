@@ -1,0 +1,35 @@
+﻿@model HealthCare.Templates.ViewModels.ShareUser
+
+<p>
+    Dear <strong> @Model.RecipientName,</strong>
+</p>
+
+<p>
+    @Model.SenderName would like to share with you the following information about <strong> @Model.SharedUserName</strong>
+</p>
+
+<p> <italic>Emails: </italic></p>
+@foreach (var email in Model.Emails)
+{
+    <p> @email </p>
+}
+
+<p> <italic>Phones: </italic></p>
+@foreach (var phone in Model.Phones)
+{
+    <p> @phone </p>
+}
+
+<p> <italic>Addresses: </italic></p>
+@foreach (var address in Model.Addresses)
+{
+    <p> @address </p>
+}
+
+<br>
+<br>
+<p>
+    Best Regards,
+    <br>
+    <i>Your HealthCare Team</i>
+</p>

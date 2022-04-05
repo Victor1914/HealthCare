@@ -1,0 +1,7 @@
+[
+    {"id":1, "Name":"Appointment Reminder"},
+    {"id":2, "Name":"Approve Appointment"},
+    {"id":3, "Name":"Decline Appointment"},
+    {"id":4, "Name":"CancelAppointment"},
+    {"id":5, "Name":"Received Referral"}
+]

@@ -1,0 +1,21 @@
+﻿@using Microsoft.AspNetCore.Html
+@model HealthCare.Templates.ViewModels.SendEmail
+
+<p>
+    Dear <strong> @Model.RecipientName,</strong>
+    <br>
+    You have received email form @Model.SenderName with the following content:
+</p>
+
+<div style="border: 1px solid green; padding: 5px">
+    @(new HtmlString(Model.Content))
+</div>
+
+<br>
+<br>
+
+<p>
+    Best Regards,
+    <br>
+    <i>Your HealthCare Team</i>
+</p>
